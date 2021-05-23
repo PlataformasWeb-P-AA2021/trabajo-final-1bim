@@ -2,7 +2,7 @@
 
 ## Uso de SqlAlchemy
 
-Dada la información de la carpeta ***data***. Realizar las siguiente tareas:
+Dada la información de la carpeta ***data***. Realizar las siguientes tareas:
 
 * Analizar el contenido
 
